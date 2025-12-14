@@ -29,9 +29,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=juanpablocarrillohortua&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=juanpablocarrillohortua&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=Sobre%20mi:&fontSize=22&fontColor=FFFFFF&fontAlign=50&fontAlignY=22&stroke=56565&strokeWidth=100&animation=twinkling&desc=Soy%20un%20estudiante%20de%20ciencia%20de%20datos%20en%20la%20Universidad%20Externado%20de%20Colombia&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
