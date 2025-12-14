@@ -30,7 +30,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=Sobre%20mi:&fontSize=22&fontColor=FFFFFF&fontAlign=50&fontAlignY=22&stroke=56565&strokeWidth=100&animation=twinkling&desc=Soy%20un%20estudiante%20de%20ciencia%20de%20datos%20en%20la%20Universidad%20Externado%20de%20Colombia&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=67&section=header&reversal=false&text=Sobre%20mi:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&stroke=56565&strokeWidth=100&animation=twinkling&desc=Soy%20un%20estudiante%20de%20ciencia%20de%20datos%20en%20la%20Universidad%20Externado%20de%20Colombia&descSize=20&descAlign=50&descAlignY=75&textBg=false&color=gradient"  />
 </div>
 
 ###
