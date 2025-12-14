@@ -35,11 +35,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanpablocarrillohortua/juanpablocarrillohortua/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanpablocarrillohortua/juanpablocarrillohortua/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juanpablocarrillohortua/juanpablocarrillohortua/output/pacman-contribution-graph.svg">
-</picture>
+<h3 align="left">Estudiante de Ciencia de Datos en la Universidad Externado de Colombia. Mi<br>perfil se distingue por una sólida mentalidad propositiva, enfocada en la<br>identificación y aplicación de soluciones innovadoras en proyectos analíticos.<br>Soy intrínsecamente curioso, lo que me motiva a mantener un compromiso<br>constante con el desarrollo de nuevas habilidades.</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://blogger.googleusercontent.com/img/a/AVvXsEinNHQMCerUQc6MDMVNbMjk9KB9aIhkKzRUaXcs0jXNweNx2Hhckvh-_qcq2Ic4krAnYuhCkPke6WqYapE7pI1Mj4o_EFhZ1lPbzjJEsR46g_YXTWtqsoagctOaXgeMq10NnJv_8xqU2INKhR9_eu7FFqJBa_jqD5UrliPkOb4VMQEnaUYuafGcTCDN=s320"  />
+</div>
 
 ###
 
