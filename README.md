@@ -1,55 +1,67 @@
-<h1 align="center">Juan Pablo Carrillo Hortua</h1>
+# Hi there, I'm Juan Pablo Carrillo Hortua
 
-###
+<img align="right" alt="GIF" height="160px" src="https://media1.tenor.com/m/i2AeJZKldpUAAAAC/pen-pen-evangelion.gif" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=67&section=header&reversal=false&text=Sobre%20mi:&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&stroke=56565&strokeWidth=100&animation=twinkling&desc=Soy%20un%20estudiante%20de%20ciencia%20de%20datos%20en%20la%20Universidad%20Externado%20de%20Colombia&descSize=20&descAlign=50&descAlignY=75&textBg=false&color=gradient"  />
-</div>
-
-###
-
-<h3 align="left">
-
-
-Científico de datos en formación, a lo largo de mi trayectoria académica he desarrollado habilidades en el análisis, procesamiento y extracción de valor a partir de datos, mediante el uso de herramientas tecnológicas y matemáticas como Python, SQL, PyTorch y estadística, entre otras.
+<p>Científico de datos en formación, a lo largo de mi trayectoria académica he desarrollado <br> 
+habilidades en el análisis, procesamiento y extracción de valor a partir de datos, mediante el uso <br> 
+de herramientas tecnológicas y matemáticas como Python, SQL, PyTorch y estadística, entre otras.
 
 En mis tiempos libres disfruto aprender sobre nuevas tecnologías y avances en el campo. Actualmente me encuentro estudiando de manera independiente los fundamentos de redes neuronales, más allá de la simple implementación de modelos en PyTorch, con el objetivo de comprender en profundidad su funcionamiento teórico.
 
-He obtenido el reconocimiento de la Universidad Externado de Colombia por el mejor promedio en la carrera de Ciencia de Datos, y me he consolidado entre mis compañeros como una persona dedicada, responsable y orientada al trabajo en equipo.</h3>
+He obtenido el reconocimiento de la Universidad Externado de Colombia por el mejor promedio en la carrera de Ciencia de Datos, y me he consolidado entre mis compañeros como una persona dedicada, responsable y orientada al trabajo en equipo.. </p>
 
-###
+#### 🔧 Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+#### 🖥️ Frameworks
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-0B5ED7?style=for-the-badge&logo=python&logoColor=white)
+
+
+#### 📚 Libraries
+
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+#### 🔧 Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 Profile Statistics
+
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+
+</div>
+ 
+ <div align=center>
+   
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanpablocarrillohortua&theme=github_dark) 
+
+ </div>
+
+
+### 🔗 &nbsp;Contact Me
 
 <div align="center">
-  <img height="200" src="https://blogger.googleusercontent.com/img/a/AVvXsEinNHQMCerUQc6MDMVNbMjk9KB9aIhkKzRUaXcs0jXNweNx2Hhckvh-_qcq2Ic4krAnYuhCkPke6WqYapE7pI1Mj4o_EFhZ1lPbzjJEsR46g_YXTWtqsoagctOaXgeMq10NnJv_8xqU2INKhR9_eu7FFqJBa_jqD5UrliPkOb4VMQEnaUYuafGcTCDN=s320"  />
+<a href="mailto:juanpablocarrillohortua@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/juan-pablo-carrillo-hortua-00a8333ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanpablocarrillohortua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanpablocarrillohortua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+---
