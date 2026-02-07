@@ -13,11 +13,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60" alt="rstudio logo"  />
 </div>
 
 ###
@@ -35,7 +30,14 @@
 
 ###
 
-<h3 align="left">Estudiante de Ciencia de Datos en la Universidad Externado de Colombia. Mi<br>perfil se distingue por una sólida mentalidad propositiva, enfocada en la<br>identificación y aplicación de soluciones innovadoras en proyectos analíticos.<br>Soy intrínsecamente curioso, lo que me motiva a mantener un compromiso<br>constante con el desarrollo de nuevas habilidades.</h3>
+<h3 align="left">
+
+
+Científico de datos en formación, a lo largo de mi trayectoria académica he desarrollado habilidades en el análisis, procesamiento y extracción de valor a partir de datos, mediante el uso de herramientas tecnológicas y matemáticas como Python, SQL, PyTorch y estadística, entre otras.
+
+En mis tiempos libres disfruto aprender sobre nuevas tecnologías y avances en el campo. Actualmente me encuentro estudiando de manera independiente los fundamentos de redes neuronales, más allá de la simple implementación de modelos en PyTorch, con el objetivo de comprender en profundidad su funcionamiento teórico.
+
+He obtenido el reconocimiento de la Universidad Externado de Colombia por el mejor promedio en la carrera de Ciencia de Datos, y me he consolidado entre mis compañeros como una persona dedicada, responsable y orientada al trabajo en equipo.</h3>
 
 ###
 
