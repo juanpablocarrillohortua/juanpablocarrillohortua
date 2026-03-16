@@ -8,7 +8,7 @@ de herramientas tecnológicas y matemáticas como Python, SQL, PyTorch y estadí
 
 En mis tiempos libres disfruto aprender sobre nuevas tecnologías y avances en el campo. Actualmente me encuentro estudiando de manera independiente los fundamentos de redes neuronales, más allá de la simple implementación de modelos en PyTorch, con el objetivo de comprender en profundidad su funcionamiento teórico.
 
-He obtenido el reconocimiento de la Universidad Externado de Colombia por el mejor promedio en la carrera de Ciencia de Datos, y me he consolidado entre mis compañeros como una persona dedicada, responsable y orientada al trabajo en equipo.. </p>
+He obtenido el reconocimiento de la Universidad Externado de Colombia por el mejor promedio en la carrera de Ciencia de Datos en dos ocasiones, y me he consolidado entre mis compañeros como una persona dedicada, responsable y orientada al trabajo en equipo.. </p>
 
 #### 🔧 Languages
 
