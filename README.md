@@ -2,13 +2,11 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media1.tenor.com/m/i2AeJZKldpUAAAAC/pen-pen-evangelion.gif" />
 
-<p>Científico de datos en formación, a lo largo de mi trayectoria académica he desarrollado <br> 
-habilidades en el análisis, procesamiento y extracción de valor a partir de datos, mediante el uso <br> 
-de herramientas tecnológicas y matemáticas como Python, SQL, PyTorch y estadística, entre otras.
+I'm currently in my 4th semester at Universidad Externado de Colombia, carrying a 4.8/5.0 GPA, and I've used that foundation to build things rather than just study them: end-to-end RAG pipelines, deployed computer vision models (YOLOv8/v11) for real-world detection tasks, and backend architectures designed to hold up under actual use. I also work as a University Developer, maintaining internal research tools and data infrastructure — which keeps me equally comfortable writing a training loop and debugging a database.
 
-En mis tiempos libres disfruto aprender sobre nuevas tecnologías y avances en el campo. Actualmente me encuentro estudiando de manera independiente los fundamentos de redes neuronales, más allá de la simple implementación de modelos en PyTorch, con el objetivo de comprender en profundidad su funcionamiento teórico.
+Outside of coursework, I spend a lot of my free time going one level deeper than the frameworks — right now that means studying the theoretical fundamentals of neural networks, not just how to call .fit() on them, but why they work the way they do.
 
-He obtenido el reconocimiento de la Universidad Externado de Colombia por el mejor promedio en la carrera de Ciencia de Datos en dos ocasiones, y me he consolidado entre mis compañeros como una persona dedicada, responsable y orientada al trabajo en equipo. </p>
+I've been recognized by Universidad Externado de Colombia three times for the highest academic average in my program, and among my peers I'm known as someone dependable, thorough, and genuinely easy to build things with.
 
 #### 🔧 Languages
 
